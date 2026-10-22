@@ -40,5 +40,37 @@ This course focuses on solving computational problems that manipulate collected 
 - Algorithm Complexity
 - Scheduling Algroithms
 
+
+## Course Activities
+
+### Prelim Period
+```text
+Prelim/
+├── Hands-on Activity 1.1 Basic C++ Programming/
+├── Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation/
+├── Hands-on Activity 3.1 Linked Lists/
+├── Hands-on Activity 4.1 Stacks/
+└── Hands-on Activity 5.1 Queues/
+```
+
+### Midterm Period
+```text
+Midterm/
+├── Hands-on Activity 6.1 Searching Techniques/
+├── Hands-on Activity 7.1 Sorting Algorithms Pt1/
+├── Hands-on Activity 8.1 Sorting Algorithms Pt2/
+└── Hands-on Activity 9.1 Tree ADT/
+```
+
+### Final Period
+```text
+Final/
+├── Hands-on Activity 10.1 Graphs/
+├── Hands-on Activity 11.1 Basic Algorithm Analysis/
+├── Hands-on Activity 12.1 Algorithmic Strategies/
+├── Hands-on Activity 13.1 Parallel Algorithms and Multithreading/
+├── Hands-on Activity 14.1 Algorithm Complexity/
+```
+
 ## Programming Language
 - C++
