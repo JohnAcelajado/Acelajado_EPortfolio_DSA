@@ -1,0 +1,30 @@
+//Acelajado, John Vince D.
+#include<iostream>
+#include<stack> //calling stack from the STL
+
+int main(){
+    //create an object for the stack
+    std::stack<int> newStack;
+
+    std::cout<<"Stack Empty? " <<newStack.empty()<<std::endl;
+
+    newStack.push(3);
+    newStack.push(8);
+    newStack.push(15);
+
+   std::cout<<"Stack Empty? " <<newStack.empty()<<std::endl;
+   std::cout<<"The size of the stack: " << newStack.size()<<std::endl;
+   std::cout<<"The top of the element is: " << newStack.top() << std::endl;
+   std::cout<<"Removing the element from the stack: \n";
+
+   
+   std::cout<<"The top of the element is: " <<newStack.top() << std::endl;
+   newStack.pop();
+    std::cout<<"The top of the element is: " <<newStack.top() << std::endl;
+   newStack.pop();
+    std::cout<<"Stack Empty?: " <<newStack.top() << std::endl;
+   newStack.pop();
+
+    return 0;
+}
+
