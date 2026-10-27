@@ -1,6 +1,6 @@
 # Acelajado_EPortfolio_DSA
 
-![image alt]()
+![image alt](https://github.com/JohnAcelajado/Acelajado_EPortfolio_DSA/blob/main/data%20structure%20algorithm.png?raw=true)
 
 
 ## Student Information
